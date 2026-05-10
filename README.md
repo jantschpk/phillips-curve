@@ -20,7 +20,26 @@ Der Fokus des Projekts liegt auf:
 - matplotlib
 - pandas_datareader
 
----
+## Nutzung
+
+**Option 1:** [In Google Colab öffnen](https://colab.research.google.com/drive/1pGfAOI4rlVqfdYI_O4cBbXaj8Rq6cvjg?usp=sharing)
+
+(einfach im Browser ausführen, keine Installation notwendig)
+
+**Option 2:** Lokal ausführen
+1. Repo klonen
+  ```bash
+  git clone https://github.com/jantschpk/portfolio-optimization.git
+  cd portfolio-optimization
+```
+
+2. Libraries installieren
+   ```bash
+   pip install -r requirements.txt
+
+3. Notebook starten
+   ````bash
+   jupyter notebook portfolio_montecarlo.ipynb
 
 ## Datenquellen
 
