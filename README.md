@@ -29,8 +29,8 @@ Der Fokus des Projekts liegt auf:
 **Option 2:** Lokal ausführen
 1. Repo klonen
   ```bash
-  git clone https://github.com/jantschpk/portfolio-optimization.git
-  cd portfolio-optimization
+  git clone https://github.com/jantschpk/phillips-curve.git
+  cd phillips-curve
 ```
 
 2. Libraries installieren
@@ -39,7 +39,7 @@ Der Fokus des Projekts liegt auf:
 
 3. Notebook starten
    ````bash
-   jupyter notebook portfolio_montecarlo.ipynb
+   jupyter notebook phillips_curve.ipynb
 
 ## Datenquellen
 
